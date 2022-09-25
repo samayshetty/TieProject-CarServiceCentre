@@ -1,0 +1,84 @@
+body {
+ font-family: 'Raleway', sans-serif;
+}
+.landing{
+    background-image: url(../images/SUV.pg.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-bottom: 10px;
+    color:white;
+}
+.nav img{
+    width: 10vw;
+}
+.nav ul li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 700;
+}
+.nav ul li {
+    float: right
+}
+h2{
+    color:red;
+    text-align: center;
+}
+option{
+    color:black;
+    font-weight: bold;
+    
+}
+.pic{
+    width: 300px;
+    height: 230px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.my-card{
+    padding: 10px 10px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.category-heading{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.button{
+    color: rgb(20, 173, 15);
+}
+.col-md-4{
+    display: table-cell;
+}
+.my-cart{
+    margin-right: 30px;
+    margin-left: 25px;
+}
+.navbar2 a{
+    margin-left: 55px ;
+}
+.navbar2{
+    overflow: hidden;
+
+}
+.sub-heading{
+    padding-bottom: 25px;
+    color: burlywood;
+    text-align: center;
+}
+#sub-heading1{
+    padding-top: 190px;
+}
+#sub-heading2{
+    padding-bottom: 450px;
+}
+.nav{
+    padding-top: 8vw;
+}
